@@ -1,4 +1,4 @@
-# elm-html-redirect
+# URL-Weiterleitung
 
 Ich hoste https://mcpostleipzig.de auf Github Pages.  Dabei gibt
 es ein paar zu lösende Probleme:
