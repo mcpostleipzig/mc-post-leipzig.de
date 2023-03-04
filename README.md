@@ -7,7 +7,7 @@ es ein paar zu lösende Probleme:
   oder was auch immer nach https://mcpostleipzig.de sein.
   Aus irgendwelchen Gründen funktioniert das nur über http aber
   nicht über https.  Ich habe den entsprechenden CNAME Eintrag im
-  DNS vorgenommen, so wie es die Github Pages Dokumentation verlagt.
+  DNS vorgenommen, so wie es die Github Pages Dokumentation verlangt.
   Geht trotzdem nicht.
 - https://mc-post-leipzig.de und https://www.mc-post-leipzig.de
   sollen auch entsprechende Aliase oder Umleitungen nach
