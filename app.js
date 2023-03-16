@@ -5175,7 +5175,7 @@ var $author$project$Main$main = $elm$browser$Browser$element(
 			var path = _v0.path;
 			return _Utils_Tuple2(
 				_Utils_Tuple0,
-				$elm$browser$Browser$Navigation$load('https://mcpostleipzig.de' + path));
+				$elm$browser$Browser$Navigation$load('https://www.mcpostleipzig.de' + path));
 		},
 		subscriptions: function (_v1) {
 			return $elm$core$Platform$Sub$none;
