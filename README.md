@@ -29,3 +29,11 @@ trotz der funktionierenden Umleitung zunächst einen Statuscode
 404 erhält.  Das ist vermutlich nicht besonders SEO-freundlich,
 aber eine bessere Lösung sehe ich nicht und immerhin funktioniert
 die Umleitung tadellos.
+
+
+## Update
+
+Das https-Problem bei der www-Subdomain hat sich erübrigt.  Man muss
+als Custom Domain die www-Subdomain eintragen und "Enforce HTTPS"
+auswählen.  Dann klappt https mit und ohne www.  Leider ist das
+nicht ordentlich dokumentiert.
